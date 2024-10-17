@@ -15,3 +15,6 @@ A sleek and modern Profile Card UI built using HTML and CSS, perfect for showcas
 - HTML5 for the structure.
 - CSS3 for styling, including Flexbox for layout and responsive design.
 
+  
+<img width="1440" alt="Screenshot 2024-10-17 at 13 48 18" src="https://github.com/user-attachments/assets/31aa4edd-aeb5-4429-82bc-5e6e1cf7b72e">
+
